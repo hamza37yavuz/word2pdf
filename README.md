@@ -6,4 +6,8 @@
 https://drive.google.com/file/d/1Wjnl8PSlAI2cvb0-cP8CIJ8MYGma51FE/view
 
 İndirdikten sonra exe dosyasıyla aynı dizine koyduğunuz tüm .docx ve .doc dosyaları pdf formatına dönüştürülecektir.
-Python kodu için de aynı işlemi yapabilirsiniz.
+Python kodu için de aynı işlemi yapabilirsiniz. Ama aşağıda yazan komutları bilgisayarınızda çalıştırmanız gerekmektedir.
+
+`pip install pywin32`
+
+`pip install docx2pdf`
